@@ -25,7 +25,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Screenshot
-[go to a screenshot](./assets/images/cost-management.png)
+![go to a screenshot](./assets/images/screen-shot-horiseon.png)
 
 ## Link to deploy website
 [go to homework assignment](https://truethatplaya.github.io/hw-01/)
