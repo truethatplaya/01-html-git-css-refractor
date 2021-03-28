@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #2a607c;
+  background-color: #d9dcd6;
 }
 
 .header {
@@ -16,13 +16,12 @@ body {
   color: #ffffff;
 }
 
-header h1 {
+.header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-/*--removed header*/
-.seo {
+.header h1 .seo {
   color: #d9dcd6;
 }
 
@@ -33,14 +32,14 @@ header h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-/* changed div to nav */
-.header nav ul {
+
+.header div ul {
   list-style-type: none;
 }
 
-.header nav ul li {
+.header div ul li {
   display: inline-block;
-  margin-right: 25px;
+  margin-left: 25px;
 }
 
 a {
