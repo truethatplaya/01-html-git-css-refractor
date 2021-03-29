@@ -37,7 +37,7 @@ body {
   list-style-type: none;
 }
 
-.nav-item {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
