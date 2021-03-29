@@ -1,11 +1,10 @@
-# Title: hw-01
+# Title: hw-01 - Horiseon Website
 
 ## Description: Homework from UCD "01-HTML-Git-CSS" (2021)
 
-In this homework assignement index.html and style.css was reviewed and refactored. The webpage was review and tested for accessibility.
+In this homework assignement index.html and style.css was reviewed and refactored. The webpage was review and tested for functionality and accessibility.
 
-Motivation for the project:
-What problem does it solve:
+What problem does it solve: the index.html code was refractored to specify the semantics, header, section, article, footer. Images were given "alt" tags to improve accessibility for users with disabilities.
 
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -25,11 +24,13 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Screenshot
-![go to a screenshot](./assets/images/screen-shot-horiseon.png)
+
+![Go to a screenshot of Horiseon website](./assets/images/screen-shot-horiseon.png)
 
 ## Link to deploy website
-[go to homework assignment](https://truethatplaya.github.io/hw-01/)
+
+[Go to Horiseon website](https://truethatplaya.github.io/hw-01/)
 
 ## Link to git hub repository "hw-01"
-[go to truethatplay github](https://github.com/truethatplaya/hw-01)
 
+[Go to truethatplay/hw-01 github](https://github.com/truethatplaya/hw-01)
